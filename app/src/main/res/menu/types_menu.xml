@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Temperature"
+        android:title="Temperature" />
+    <item android:id="@+id/Length"
+        android:title="Length" />
+    <item android:id="@+id/Mass"
+        android:title="Mass" />
+    <item android:id="@+id/Area"
+        android:title="Area" />
+    <item android:id="@+id/Volume"
+        android:title="Volume" />
+    <item android:id="@+id/Time"
+        android:title="Time" />
+    <item android:id="@+id/Force"
+        android:title="Force" />
+    <item android:id="@+id/Energy"
+        android:title="Energy" />
+    <item android:id="@+id/Power"
+        android:title="Power" />
+    <item android:id="@+id/Pressure"
+        android:title="Pressure" />
+    <item android:id="@+id/DataSize"
+        android:title="Data Size" />
+</menu>

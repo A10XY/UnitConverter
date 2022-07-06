@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Bit"
+        android:title="Bit (bit)"/>
+    <item
+        android:id="@+id/Byte"
+        android:title="Byte(B)"/>
+    <item
+        android:id="@+id/KiloByte"
+        android:title="KiloByte (KB)"/>
+    <item
+        android:id="@+id/MegaByte"
+        android:title="MegaByte (MB)"/>
+    <item
+        android:id="@+id/GigaByte"
+        android:title="GigaByte (GB)"/>
+    <item
+        android:id="@+id/TeraByte"
+        android:title="TeraByte (TB)"/>
+</menu>
